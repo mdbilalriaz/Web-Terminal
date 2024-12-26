@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "676d6524e14105d7a3cab5ab"
+  },
+  "name": "John Doe",
+  "borrowedBooks": [
+    {
+      "$oid": "676d6253e14105d7a3cab590"
+    },
+    {
+      "$oid": "676d636de14105d7a3cab5a2"
+    }
+  ],
+  "membershipActive": true,
+  "membershipType": "Standard",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d654ce14105d7a3cab5ad"
+  },
+  "name": "Bilal",
+  "borrowedBooks": [
+    {
+      "$oid": "676d6253e14105d7a3cab590"
+    },
+    {
+      "$oid": "676d6383e14105d7a3cab5a4"
+    }
+  ],
+  "membershipActive": true,
+  "membershipType": "Standard",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d6564e14105d7a3cab5af"
+  },
+  "name": "Bilal",
+  "borrowedBooks": [
+    {
+      "$oid": "676d636de14105d7a3cab5a2"
+    },
+    {
+      "$oid": "676d6383e14105d7a3cab5a4"
+    }
+  ],
+  "membershipActive": true,
+  "membershipType": "Standard",
+  "__v": 0
+}]

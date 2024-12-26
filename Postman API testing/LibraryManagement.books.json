@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "676d6253e14105d7a3cab590"
+  },
+  "title": "king",
+  "author": {
+    "$oid": "60d5f3a3f5b0c430ec7d0c82"
+  },
+  "isbn": "0992",
+  "availableCopies": 60,
+  "borrowCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d636de14105d7a3cab5a2"
+  },
+  "title": "chemsitry",
+  "author": {
+    "$oid": "60d5f3a3f5b0c430ec7d0c84"
+  },
+  "isbn": "6782",
+  "availableCopies": 90,
+  "borrowCount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d6383e14105d7a3cab5a4"
+  },
+  "title": "physics",
+  "author": {
+    "$oid": "60d5f3a3f5b0c430ec7d0c83"
+  },
+  "isbn": "6752",
+  "availableCopies": 40,
+  "borrowCount": 0,
+  "__v": 0
+}]

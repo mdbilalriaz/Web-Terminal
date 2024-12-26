@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "60d5f3a3f5b0c430ec7d0c82"
+  },
+  "name": "bilal",
+  "email": "bilal@example.com",
+  "phoneNumber": "+123456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60d5f3a3f5b0c430ec7d0c83"
+  },
+  "name": "bilal",
+  "email": "bilal123@example.com",
+  "phoneNumber": "+123456678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60d5f3a3f5b0c430ec7d0c84"
+  },
+  "name": "ALI",
+  "email": "ali123@example.com",
+  "phoneNumber": "+12345786678",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60d5f3a3f5b0c430ec7d0c90"
+  },
+  "name": "bilalAhmad",
+  "email": "ahmad@example.com",
+  "phoneNumber": "+9267667788",
+  "__v": 0
+}]
